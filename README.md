@@ -4,15 +4,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HizMori&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-name: Detailed display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: sponsor, maintainer, octonaut
-
 <!--
 **HizMori/HizMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
