@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HizMori&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/HizMori"
+    width="700"
+    height="200"
+  />
+</a>
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HizMori)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HizMori&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
