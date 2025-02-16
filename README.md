@@ -2,9 +2,9 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HizMori&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/HizMori"
-    width="700"
-    height="200"
+    src="https://render.gitanimals.org/lines/HizMori?pet-id=678905722337787052"
+    width="600"
+    height="120"
   />
 </a>
   
