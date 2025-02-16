@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HizMori&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HizMori&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **HizMori/HizMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
