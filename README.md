@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HizMori)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HizMori)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **HizMori/HizMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
