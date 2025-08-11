@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HizMori&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/HizMori?pet-id=678905722337787052"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HizMori&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/HizMori"
+  width="600"
+  height="300"
+/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HizMori)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HizMori&theme=dark&border_radius=10&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HizMori&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
