@@ -8,10 +8,6 @@
 />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HizMori&theme=dark&border_radius=10&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HizMori&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **HizMori/HizMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
